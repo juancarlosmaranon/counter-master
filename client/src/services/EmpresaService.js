@@ -13,8 +13,8 @@ export default class EmpresaService{
         });
     }
 
-    getSalas(){
-        
+    getSalass(){
+
     }
 
 }
